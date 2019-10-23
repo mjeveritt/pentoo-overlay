@@ -1,6 +1,8 @@
 # Pentoo Penetration Testing Overlay
 Gentoo overlay for security tools as well as the heart of the Pentoo Livecd
 
+[![Build Status](https://travis-ci.com/mjeveritt/pentoo-overlay.svg?branch=master)](https://travis-ci.com/mjeveritt/pentoo-overlay)
+
 <a href="http://pentoo.ch"><img src="https://github.com/pentoo/pentoo-overlay/wiki/images/pentoo2.png"></a>
 
 
